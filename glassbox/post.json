@@ -1,0 +1,125 @@
+{
+  "slug": "hookeclear",
+  "box": 9,
+  "question": "What is Hooke's law?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/hookeclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/hookeclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From twisted-sinew catapults to silicon springs in your phone, by way of a 1676 anagram.\n\n1675: A spiral spring keeps time\n1676: The law as a puzzle\n1678: 'As the extension, so the force'\n1807: Young's modulus\n1934: Coil springs for every wheel\n1979: The first modern bungee jump\n\nThe full story, with 20 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/hookeclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/hookeclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #hookeslaw #springs #elasticity #springconstant #youngsmodulus #oscillation #history",
+      "youtube": {
+        "title": "The history of Hooke's law in 45 seconds #shorts",
+        "description": "From twisted-sinew catapults to silicon springs in your phone, by way of a 1676 anagram.\n\n1675 · A spiral spring keeps time (Christiaan Huygens, with the clockmaker Isaac Thuret)\n1676 · The law as a puzzle (Robert Hooke)\n1678 · 'As the extension, so the force' (Robert Hooke)\n1807 · Young's modulus (Thomas Young)\n1934 · Coil springs for every wheel (General Motors)\n1979 · The first modern bungee jump (David Kirke and Simon Keeling, Oxford University Dangerous Sports Club)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/hookeclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/hookeclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "What is Hooke's law?\n\nPull twice as hard and a spring stretches twice as far. That one line from 1676 weighs your onions, clicks your pen, carries your car and tunes your guitar. Hang masses on 3D springs, bounce a car over a speed breaker, jump off a bridge on a bungee, and stretch steel until it snaps.\n\n→ Hooke’s law: pull twice as hard and a spring stretches twice as far. F = k × x.\n→ Set it bouncing: one swing takes 2π √(m ÷ k), however big the bounce.\n→ A spring balance: each kilo stretches the spring the same 1 cm, so the scale is even.\n→ A car rides on springs. Without a working damper, a speed breaker sets it bouncing.\n→ Bungee: the fall’s energy, m g h, ends up stretched into the cord as ½ k x².\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/hookeclear (link in bio)\n\nBox No. L09 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #hookeslaw #springs #elasticity #springconstant #youngsmodulus #oscillation #suspension #stressandstrain #physics",
+    "carousel": "Swipe through: What is Hooke's law?\n\nPull twice as hard and a spring stretches twice as far. That one line from 1676 weighs your onions, clicks your pen, carries your car and tunes your guitar. Hang masses on 3D springs, bounce a car over a speed breaker, jump off a bridge on a bungee, and stretch steel until it snaps.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/hookeclear (link in bio).\n\nBox No. L09 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #hookeslaw #springs #elasticity #springconstant #youngsmodulus #oscillation",
+    "youtube": {
+      "title": "What is Hooke's law? #shorts",
+      "description": "Pull twice as hard and a spring stretches twice as far. That one line from 1676 weighs your onions, clicks your pen, carries your car and tunes your guitar. Hang masses on 3D springs, bounce a car over a speed breaker, jump off a bridge on a bungee, and stretch steel until it snaps.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/hookeclear/\n⌘ Source code (MIT): https://github.com/bdeeps/hookeclear\n\nBox No. L09 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "What is Hooke's law? (interactive explainer)",
+      "description": "Pull twice as hard and a spring stretches twice as far. That one line from 1676 weighs your onions, clicks your pen, carries your car and tunes your guitar. Hang masses on 3D springs, bounce a car over a speed breaker, jump off a bridge on a bungee, and stretch steel until it snaps.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/hookeclear/\n⌘ Source code (MIT): https://github.com/bdeeps/hookeclear\n\nIn this video:\n• Twice the pull, twice the stretch. A spring stretches in proportion to the force on it: F = k × x.\n• Springs store energy and keep time. A stretched spring stores ½ k x², the area under the line.\n• Weighing and clicking. Because stretch is proportional to load, a spring balance can have evenly spaced marks.\n• Riding on springs. A car's corner spring squeezes about 10 cm under its share of the weight and would bounce about 1.5 times a second, so a damper turns the bounce into heat.\n• Past the elastic limit. Steel obeys Hooke's law only to about 0.1 % stretch.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "What is Hooke's law?\n\nPull twice as hard and a spring stretches twice as far.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/hookeclear/",
+    "linkedin": "What is Hooke's law?\n\nPull twice as hard and a spring stretches twice as far. That one line from 1676 weighs your onions, clicks your pen, carries your car and tunes your guitar. Hang masses on 3D springs, bounce a car over a speed breaker, jump off a bridge on a bungee, and stretch steel until it snaps.\n\n1. Twice the pull, twice the stretch\n2. Springs store energy and keep time\n3. Weighing and clicking\n4. Riding on springs\n5. Past the elastic limit\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. L09 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/hookeclear/\nCode: https://github.com/bdeeps/hookeclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T15:30:40.983Z"
+}

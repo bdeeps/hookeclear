@@ -1,0 +1,566 @@
+{
+  "title": "The history of Hooke's law",
+  "tagline": "From twisted-sinew catapults to silicon springs in your phone, by way of a 1676 anagram.",
+  "intro": "People used springs for thousands of years before anyone asked how they behave. A restless English experimenter, trying to build a better watch, noticed that a spring's stretch keeps exact step with the pull, and hid the rule in an anagram. Over the next two centuries it grew from a rule about springs into a science of materials, and today it runs car suspensions, weighing scales and the tiny motion sensors inside phones.",
+  "eras": [
+    {
+      "id": "before",
+      "name": "Springs before the law",
+      "from": -400,
+      "to": 1659,
+      "color": "#c49bff",
+      "summary": "People store energy in bows, catapults and beams long before anyone writes down how springy things behave."
+    },
+    {
+      "id": "hooke",
+      "name": "Ut tensio, sic vis",
+      "from": 1660,
+      "to": 1700,
+      "color": "#ffb547",
+      "summary": "Robert Hooke finds the rule while building watches, hides it in an anagram, and fights Huygens over the balance spring."
+    },
+    {
+      "id": "materials",
+      "name": "From springs to materials",
+      "from": 1700,
+      "to": 1899,
+      "color": "#7be08c",
+      "summary": "Euler, Young and Cauchy turn a rule about springs into a science of materials, while spring balances and carriage springs spread."
+    },
+    {
+      "id": "modern",
+      "name": "Springs everywhere",
+      "from": 1900,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Coil springs and dampers carry cars, bungee cords carry people, and microscopic silicon springs sense motion in every phone."
+    }
+  ],
+  "events": [
+    {
+      "year": -340,
+      "date": "c. 340 BCE",
+      "era": "before",
+      "art": "string",
+      "title": "Springs of twisted sinew",
+      "who": "Engineers of Philip II of Macedon (attributed)",
+      "where": "Macedonia and Athens, Greece",
+      "country": "Greece",
+      "text": "Greek engineers switched from bow-like catapults to torsion catapults, powered by tightly twisted bundles of sinew. An Athenian arsenal list from 338–326 BCE mentions 'springs of sinews'.",
+      "why": "People were storing energy in springs for war two thousand years before anyone wrote down how springs behave.",
+      "sources": [
+        17
+      ],
+      "key": false
+    },
+    {
+      "year": 1638,
+      "date": "1638",
+      "era": "before",
+      "art": "scroll",
+      "title": "How strong is a beam?",
+      "who": "Galileo Galilei",
+      "where": "Leiden (printed), from Arcetri, Italy",
+      "country": "Italy",
+      "text": "In his last book, Two New Sciences, Galileo asked how much load a beam or rod can carry before it breaks, and how that depends on its size.",
+      "why": "It began the science of the strength of materials, the other half of the story Hooke's law starts.",
+      "sources": [
+        18
+      ],
+      "key": false
+    },
+    {
+      "year": 1660,
+      "date": "1660",
+      "era": "hooke",
+      "art": "person",
+      "title": "Hooke notices the rule",
+      "who": "Robert Hooke",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "While working on spring-driven watches, Hooke found that a spring's stretch grows in step with the load on it. He later wrote that he had known this since 1660, but kept it to himself.",
+      "why": "The rule was found by someone trying to make a better clock, not a theory of materials.",
+      "sources": [
+        0,
+        1
+      ],
+      "key": false
+    },
+    {
+      "year": 1675,
+      "date": "1675",
+      "era": "hooke",
+      "art": "gear",
+      "key": true,
+      "title": "A spiral spring keeps time",
+      "who": "Christiaan Huygens, with the clockmaker Isaac Thuret",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Huygens designed a watch regulated by a spiral balance spring and patented a pocket watch. Hooke, who had experimented with spring-regulated watches in the 1660s, accused him of taking the idea, and a bitter priority fight followed.",
+      "why": "A balance swinging on a spring beats at a steady rate whatever its swing, because the spring obeys Hooke's law. Pocket watches became accurate enough to be useful.",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 1676,
+      "date": "1676",
+      "era": "hooke",
+      "art": "word",
+      "key": true,
+      "title": "The law as a puzzle",
+      "who": "Robert Hooke",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "At the end of his book on helioscopes, Hooke printed a string of letters, ceiiinosssttuu, to 'fill the vacancy' of the page. It was an anagram: a way to claim a discovery without yet saying what it was.",
+      "why": "Scientists of the time used anagrams to prove they had an idea first while keeping it secret.",
+      "sources": [
+        0,
+        4
+      ]
+    },
+    {
+      "year": 1678,
+      "date": "1678",
+      "era": "hooke",
+      "art": "spring2",
+      "key": true,
+      "title": "'As the extension, so the force'",
+      "who": "Robert Hooke",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "In Lectures de Potentia Restitutiva, or Of Spring, Hooke gave the answer: ut tensio, sic vis. The force of any spring is in proportion to how far it is stretched. He showed it held for coiled springs, watch springs, wires and even wood.",
+      "why": "It is the first law of elasticity, and it is still exactly how we design springs, scales and structures.",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1727,
+      "date": "1727",
+      "era": "materials",
+      "art": "quill",
+      "title": "Stiffness as a number",
+      "who": "Leonhard Euler",
+      "where": "Basel, Switzerland",
+      "country": "Switzerland",
+      "text": "Euler worked out the idea that a material has its own stiffness, separate from the shape of the object made from it. It is what we now call the elastic or Young's modulus.",
+      "why": "It turned Hooke's rule about springs into a rule about materials.",
+      "sources": [
+        5,
+        20
+      ],
+      "key": false
+    },
+    {
+      "year": 1770,
+      "date": "c. 1770",
+      "era": "materials",
+      "art": "scales",
+      "title": "The spring balance",
+      "who": "Richard Salter",
+      "where": "Bilston, near Wolverhampton, England",
+      "country": "United Kingdom",
+      "text": "Salter made one of the first spring balances: a spring, a hook and a pointer against a scale. Because stretch is proportional to load, the marks could be evenly spaced.",
+      "why": "Hooke's law became an everyday measuring tool, still used in markets and for luggage.",
+      "sources": [
+        9
+      ],
+      "key": false
+    },
+    {
+      "year": 1782,
+      "date": "1782",
+      "era": "materials",
+      "art": "tuningfork",
+      "title": "First measurements of stiffness",
+      "who": "Giordano Riccati",
+      "where": "Treviso, Republic of Venice (now Italy)",
+      "country": "Italy",
+      "text": "Riccati compared how stiff steel and brass are by making bars of each vibrate and timing their notes. He found steel about twice as stiff as brass, a ratio of 2.06 that still matches modern values, twenty-five years before Thomas Young's paper.",
+      "why": "Stiffness became something you could measure and compare, material by material.",
+      "sources": [
+        5,
+        21
+      ],
+      "key": false
+    },
+    {
+      "year": 1804,
+      "date": "1804",
+      "era": "materials",
+      "art": "horse",
+      "title": "Elliptic springs smooth the ride",
+      "who": "Obadiah Elliott",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Elliott patented the elliptic leaf spring: curved strips of steel stacked into an oval under a carriage. Earlier carriages had hung from leather straps.",
+      "why": "Springy steel under the body became the standard way to smooth a ride, for carriages, trains and early cars.",
+      "sources": [
+        10
+      ],
+      "key": false
+    },
+    {
+      "year": 1807,
+      "date": "1807",
+      "era": "materials",
+      "art": "person",
+      "key": true,
+      "title": "Young's modulus",
+      "who": "Thomas Young",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Young's Course of Lectures on Natural Philosophy, from talks at the Royal Institution in 1801–1803, described a material's stiffness as a single number: stress divided by strain. His name stuck to it.",
+      "why": "Engineers could now say steel is about 200 GPa and rubber a tiny fraction of that, and design with it.",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1822,
+      "date": "30 September 1822",
+      "era": "materials",
+      "art": "quill",
+      "title": "Stress, inside a solid",
+      "who": "Augustin-Louis Cauchy",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "In a memoir read to the French Academy of Sciences, Cauchy defined stress: the forces acting across any surface inside a solid. He built the full theory of linear elasticity on it, Hooke's law in three dimensions.",
+      "why": "It is the maths behind every bridge, building and aircraft checked by engineers today.",
+      "sources": [
+        7,
+        8
+      ],
+      "key": false
+    },
+    {
+      "year": 1838,
+      "date": "1838",
+      "era": "materials",
+      "art": "engine",
+      "title": "Springs guard steam boilers",
+      "who": "George Salter & Co.",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "Richard Salter's nephews, trading as George Salter & Co., patented the spring balance. They also used spring balances on steam locomotives to hold safety valves shut, in place of dead weights that bounced.",
+      "why": "A calibrated spring held back a precise force, a job springs still do in valves everywhere.",
+      "sources": [
+        9
+      ],
+      "key": false
+    },
+    {
+      "year": 1906,
+      "date": "1906–1909",
+      "era": "modern",
+      "art": "piston",
+      "title": "Oil-filled shock absorbers",
+      "who": "Gaston Dumond, Ernest Mathis, Maurice Houdaille",
+      "where": "France",
+      "country": "France",
+      "text": "French engineers patented hydraulic shock absorbers, which force oil through small holes. Houdaille's lever-arm design was widely used after the First World War.",
+      "why": "A spring alone keeps bouncing; a damper turns the bounce into heat. Every car and motorbike now pairs the two.",
+      "sources": [
+        11
+      ],
+      "key": false
+    },
+    {
+      "year": 1934,
+      "date": "1934",
+      "era": "modern",
+      "art": "car",
+      "key": true,
+      "title": "Coil springs for every wheel",
+      "who": "General Motors",
+      "where": "Detroit, United States",
+      "country": "United States",
+      "text": "GM put independent front suspension, sold as 'Knee-Action', across its car lines. Cadillac, Buick and Oldsmobile used big coil springs; Chevrolet and Pontiac used the Dubonnet system with coils in a sealed unit.",
+      "why": "Coil springs at each front wheel became the normal way to build a comfortable car.",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1979,
+      "date": "1 April 1979",
+      "era": "modern",
+      "art": "mountain",
+      "key": true,
+      "title": "The first modern bungee jump",
+      "who": "David Kirke and Simon Keeling, Oxford University Dangerous Sports Club",
+      "where": "Clifton Suspension Bridge, Bristol, England",
+      "country": "United Kingdom",
+      "text": "Inspired by the land divers of Vanuatu, who jump from towers with vines tied to their ankles, club members jumped from the bridge on elastic cords. A. J. Hackett opened the first permanent commercial jump at the Kawarau Bridge in New Zealand in 1988.",
+      "why": "A bungee cord is a long, soft spring: it stores the whole fall's energy as ½ k x² and gives it back.",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1986,
+      "date": "1986",
+      "era": "modern",
+      "art": "lens",
+      "title": "A spring that feels atoms",
+      "who": "Gerd Binnig, Calvin Quate and Christoph Gerber",
+      "where": "IBM and Stanford, United States",
+      "country": "United States",
+      "text": "The atomic force microscope drags a sharp tip on a tiny cantilever over a surface. The forces from single atoms bend the cantilever, and Hooke's law turns the bend into a force.",
+      "why": "Hooke's law became a way to see and weigh forces between individual atoms.",
+      "sources": [
+        14
+      ],
+      "key": false
+    },
+    {
+      "year": 1991,
+      "date": "1991",
+      "era": "modern",
+      "art": "chip",
+      "key": true,
+      "title": "Springs on a chip",
+      "who": "Analog Devices",
+      "where": "Massachusetts, United States",
+      "country": "United States",
+      "text": "The ADXL50 was the first mass-produced MEMS accelerometer: a microscopic mass on silicon springs, built into a chip. When a car crashes, the mass moves against its springs and the chip fires the airbag.",
+      "why": "The same tiny spring-and-mass idea now sits in phones, watches and game controllers.",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "February 2006",
+      "era": "modern",
+      "art": "scroll",
+      "title": "Hooke's lost notes turn up",
+      "who": "Royal Society",
+      "where": "Hampshire, England",
+      "country": "United Kingdom",
+      "text": "A long-lost handwritten copy of Hooke's minutes of Royal Society meetings was found in a cupboard in a house in Hampshire. Many historians read it as tipping the old balance-spring dispute towards Hooke.",
+      "why": "Three centuries on, the argument over who invented the spring-regulated watch was still alive.",
+      "sources": [
+        3
+      ],
+      "key": false
+    },
+    {
+      "year": 2007,
+      "date": "9 January 2007",
+      "era": "modern",
+      "art": "phone",
+      "title": "A phone that knows which way is up",
+      "who": "Apple",
+      "where": "San Francisco, United States",
+      "country": "United States",
+      "text": "The first iPhone used a built-in accelerometer to turn its screen when you turned the phone. Inside, a speck of silicon hangs on springs finer than a hair.",
+      "why": "Billions of people now carry Hooke's law in their pockets.",
+      "sources": [
+        19
+      ],
+      "key": false
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Hooke's law published as an anagram",
+      "value": "1676",
+      "who": "Robert Hooke, England"
+    },
+    {
+      "label": "Hooke's law explained: ut tensio, sic vis",
+      "value": "1678",
+      "who": "Robert Hooke, England"
+    },
+    {
+      "label": "Spiral balance spring watch",
+      "value": "1675",
+      "who": "Christiaan Huygens and Isaac Thuret, France (priority disputed by Hooke)"
+    },
+    {
+      "label": "Spring balance",
+      "value": "c. 1770",
+      "who": "Richard Salter, England"
+    },
+    {
+      "label": "Modern bungee jump",
+      "value": "1979",
+      "who": "Oxford University Dangerous Sports Club, England"
+    },
+    {
+      "label": "Mass-produced MEMS accelerometer",
+      "value": "1991",
+      "who": "Analog Devices, United States"
+    }
+  ],
+  "people": [
+    {
+      "name": "Robert Hooke",
+      "life": "1635 – 1703",
+      "role": "Experimenter, Curator of Experiments of the Royal Society",
+      "from": "England",
+      "note": "Found the law of springs, coined the word 'cell' and helped rebuild London after the Great Fire. No authenticated portrait of him survives."
+    },
+    {
+      "name": "Christiaan Huygens",
+      "life": "1629 – 1695",
+      "role": "Physicist and astronomer",
+      "from": "Netherlands",
+      "note": "Built the first working watch regulated by a spiral balance spring, and the pendulum clock before it."
+    },
+    {
+      "name": "Leonhard Euler",
+      "life": "1707 – 1783",
+      "role": "Mathematician",
+      "from": "Switzerland",
+      "note": "Gave the idea of a material's own stiffness, and the maths of bending beams."
+    },
+    {
+      "name": "Giordano Riccati",
+      "life": "1709 – 1790",
+      "role": "Mathematician and physicist",
+      "from": "Italy",
+      "note": "Compared the stiffness of steel and brass from the notes of vibrating bars in 1782, decades before Thomas Young."
+    },
+    {
+      "name": "Thomas Young",
+      "life": "1773 – 1829",
+      "role": "Physician and physicist",
+      "from": "England",
+      "note": "Described the modulus that carries his name, and showed that light behaves as a wave."
+    },
+    {
+      "name": "Augustin-Louis Cauchy",
+      "life": "1789 – 1857",
+      "role": "Mathematician",
+      "from": "France",
+      "note": "Defined stress inside a solid and built the theory of elasticity on Hooke's law."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "Hooke's anagram ceiiinosssttuu unscrambles to ut tensio sic vis, 'as the extension, so the force'. Latin printers wrote v as u.",
+    "A steel bar obeys Hooke's law only up to about a tenth of a percent of stretch: 1 mm per metre.",
+    "A tuned high-E guitar string is stretched by only about 0.7 %, about 5 mm along its length.",
+    "A spring balance measures force, not mass: on the Moon, 6 kg of onions would read about 1 kg.",
+    "No authenticated portrait of Robert Hooke survives."
+  ],
+  "sources": [
+    {
+      "title": "Hooke's law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hooke%27s_law"
+    },
+    {
+      "title": "Robert Hooke",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Hooke"
+    },
+    {
+      "title": "Balance spring",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Balance_spring"
+    },
+    {
+      "title": "Christiaan Huygens",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Christiaan_Huygens"
+    },
+    {
+      "title": "A description of helioscopes, and some other instruments (1676)",
+      "publisher": "Early English Books Online, University of Michigan",
+      "url": "https://quod.lib.umich.edu/e/eebo/A44317.0001.001"
+    },
+    {
+      "title": "Young's modulus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Young%27s_modulus"
+    },
+    {
+      "title": "Thomas Young (scientist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Young_(scientist)"
+    },
+    {
+      "title": "Cauchy stress tensor",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cauchy_stress_tensor"
+    },
+    {
+      "title": "Cauchy tetrahedron argument and the proofs of the existence of stress tensor (review)",
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/abs/1706.08518"
+    },
+    {
+      "title": "Spring scale",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spring_scale"
+    },
+    {
+      "title": "Leaf spring",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leaf_spring"
+    },
+    {
+      "title": "Shock absorber",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shock_absorber"
+    },
+    {
+      "title": "What was GM Knee Action?",
+      "publisher": "Mac's Motor City Garage",
+      "url": "https://macsmotorcitygarage.com/what-was-gm-knee-action/"
+    },
+    {
+      "title": "Bungee jumping",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bungee_jumping"
+    },
+    {
+      "title": "Atomic force microscopy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Atomic_force_microscopy"
+    },
+    {
+      "title": "MEMS",
+      "publisher": "Engineering and Technology History Wiki (IEEE)",
+      "url": "https://ethw.org/MEMS"
+    },
+    {
+      "title": "Surface-machined monolithic accelerometer",
+      "publisher": "Analog Devices, Analog Dialogue",
+      "url": "https://www.analog.com/en/resources/analog-dialogue/articles/surface-machined-monolithic-accelerometer.html"
+    },
+    {
+      "title": "Catapult",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Catapult"
+    },
+    {
+      "title": "Two New Sciences",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Two_New_Sciences"
+    },
+    {
+      "title": "Apple Reinvents the Phone with iPhone (9 January 2007)",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/"
+    },
+    {
+      "title": "Leonhard Euler",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leonhard_Euler"
+    },
+    {
+      "title": "Giordano Riccati",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Giordano_Riccati"
+    }
+  ]
+}

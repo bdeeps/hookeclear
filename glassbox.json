@@ -1,0 +1,170 @@
+{
+  "slug": "hookeclear",
+  "kind": "principle",
+  "box": 9,
+  "date": "2026-09-27",
+  "title": "Hooke's law",
+  "question": "What is Hooke's law?",
+  "principle": {
+    "type": "law",
+    "name": "Hooke's law",
+    "formula": "F = k × x",
+    "formulaNote": "force = spring constant × extension: pull twice as hard and it stretches twice as far",
+    "idea": "A spring stretches in proportion to the force pulling it: twice the pull, twice the stretch. The number that links them, k, says how stiff the spring is, and the rule holds until you stretch it past its elastic limit.",
+    "discovered": "1676–1678 · Robert Hooke, England",
+    "art": "spring2",
+    "appliesTo": [
+      "penclear",
+      "washerclear",
+      "carclear",
+      "motorcycleclear",
+      "cycleclear",
+      "harmoniumclear",
+      "guitarclear",
+      "pianoclear",
+      "tablaclear"
+    ],
+    "examples": [
+      {
+        "title": "The click pen's spring",
+        "text": "A small spring round the refill is squeezed about 8 mm when the tip is out, so it pushes back with about 2 N. Click again and it snaps the refill back inside.",
+        "box": "penclear"
+      },
+      {
+        "title": "Car suspension",
+        "text": "About 225 kg rests on each corner spring of a small hatchback. At 22,000 N/m it squeezes about 10 cm, and each passenger adds under a centimetre more on that corner.",
+        "box": "carclear"
+      },
+      {
+        "title": "Motorbike forks and shocks",
+        "text": "Telescopic forks and rear shocks hold coil springs that squeeze in step with the load, usually set so the bike sags a quarter to a third of its travel with a rider on board. Dampers stop them bouncing.",
+        "box": "motorcycleclear"
+      },
+      {
+        "title": "The washing machine's hanging tub",
+        "text": "The tub hangs on springs and sits on shock absorbers. The springs carry its weight, and the dampers soak up the shaking when an uneven load spins.",
+        "box": "washerclear"
+      },
+      {
+        "title": "Tensioned bicycle spokes",
+        "text": "Each spoke is a stiff steel spring pulled tight, often to about 1,000 N. As the wheel rolls, the spokes at the bottom lose a little tension and spring back, which is how a thin wire wheel carries a rider.",
+        "box": "cycleclear"
+      },
+      {
+        "title": "The harmonium's reed",
+        "text": "A brass tongue fixed at one end is a tiny diving-board spring. Its stiffness grows with its thickness cubed, and it sings at (1/2π) √(k ÷ m). Solder on the tip lowers the note.",
+        "box": "harmoniumclear"
+      },
+      {
+        "title": "Tuning a guitar string",
+        "text": "Turning the peg stretches a steel string by a few millimetres. By Hooke's law its tension rises about 13.5 N per millimetre, and the pitch rises with the square root of the tension.",
+        "box": "guitarclear"
+      },
+      {
+        "title": "Piano strings",
+        "text": "Each piano string is stretched to a tension of roughly 700 to 900 N, only a fraction of a percent of stretch. The frame holds about 20 tonnes of pull in all.",
+        "box": "pianoclear"
+      },
+      {
+        "title": "The tabla's drumhead",
+        "text": "Tightening the straps stretches the skin and raises its tension, and the pitch rises with the square root of the tension. Pressing the bayan's skin with the palm does the same on the fly.",
+        "box": "tablaclear"
+      },
+      {
+        "title": "Spring balances and bungee cords",
+        "text": "A market spring balance has evenly spaced marks because stretch is proportional to load. A bungee cord is a long, soft spring that stores the fall's energy as ½ k x²."
+      }
+    ]
+  },
+  "hook": "Pull twice as hard and a spring stretches twice as far. That one line from 1676 weighs your onions, clicks your pen, carries your car and tunes your guitar. Hang masses on 3D springs, bounce a car over a speed breaker, jump off a bridge on a bungee, and stretch steel until it snaps.",
+  "thumbText": "HOOKE'S LAW",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "hookes law",
+    "springs",
+    "elasticity",
+    "spring constant",
+    "youngs modulus",
+    "oscillation",
+    "suspension",
+    "stress and strain",
+    "physics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Twice the pull, twice the stretch",
+      "text": "A spring stretches in proportion to the force on it: F = k × x. The spring constant k is its stiffness in newtons per metre. Plot force against stretch and you get a straight line whose slope is k. Springs end to end get softer; side by side, stiffer."
+    },
+    {
+      "title": "Springs store energy and keep time",
+      "text": "A stretched spring stores ½ k x², the area under the line. Let a mass bounce on it and each swing takes 2π √(m ÷ k), however big the bounce. That steady beat is why springs regulate watches."
+    },
+    {
+      "title": "Weighing and clicking",
+      "text": "Because stretch is proportional to load, a spring balance can have evenly spaced marks. It measures force, so on the Moon 6 kg of onions reads 1 kg. A click pen's spring pushes back with about 2 N."
+    },
+    {
+      "title": "Riding on springs",
+      "text": "A car's corner spring squeezes about 10 cm under its share of the weight and would bounce about 1.5 times a second, so a damper turns the bounce into heat. A bungee cord stores all the energy of a fall as ½ k x²."
+    },
+    {
+      "title": "Past the elastic limit",
+      "text": "Steel obeys Hooke's law only to about 0.1 % stretch. Beyond its yield point it stays stretched, then necks and breaks. Rubber never follows a straight line. And for the same force, a softer spring stores more energy, not less."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Hooke's law",
+      "def": "The force on a spring is proportional to its extension: F = k × x."
+    },
+    {
+      "term": "Spring constant",
+      "def": "A spring's stiffness, k, in newtons per metre: the force needed for each metre of stretch."
+    },
+    {
+      "term": "Extension",
+      "def": "How much longer or shorter a spring is than its natural length."
+    },
+    {
+      "term": "Elastic energy",
+      "def": "Energy stored in a stretched spring: ½ k x², the area under the force–extension line."
+    },
+    {
+      "term": "Period",
+      "def": "The time for one bounce of a mass on a spring: T = 2π √(m ÷ k)."
+    },
+    {
+      "term": "Young's modulus",
+      "def": "A material's own stiffness: stress ÷ strain. About 200 GPa for steel."
+    },
+    {
+      "term": "Elastic limit",
+      "def": "The largest stretch or stress after which a material still springs fully back."
+    },
+    {
+      "term": "Plastic deformation",
+      "def": "A permanent change of shape once the elastic limit is passed."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "hookeclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
